@@ -1,5 +1,5 @@
 body {
-    background: #333 url('img/cutt.jpg') center center no-repeat;
+    background: #333 url('cutt.jpg') center center no-repeat;
     background-size: cover;
     color:#532827;
 }
@@ -9,7 +9,7 @@ body {
     margin: 40px auto 0;
     padding: 50px;
     box-sizing: border-box;
-    background: url('img/paper.jpg') top left repeat;
+    background: url('paper.jpg') top left repeat;
     box-shadow: 0 10px 15ox -8px #000;
     border-radius: 5px;
     text-align: center;
